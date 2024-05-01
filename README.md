@@ -6,7 +6,8 @@ Welcome to our Expense Tracker application! This tool is designed to simplify yo
 - **Automatic Categorization**: The application automatically categorizes your expenses based on the provided description, amount, and date.
 - **Effortless Expense Tracking**: Say goodbye to manual categorization and tedious data entry.
 - **Intuitive Interface**: User-friendly interface for seamless navigation and interaction.
-**demo 
+
+**demo**
 ![image](https://github.com/RaeyoungX/easyaccount/blob/main/IMG/%E8%AE%B0%E8%B4%A6%E6%88%AA%E5%9B%BE2.png)
 
 ![image](https://github.com/RaeyoungX/easyaccount/blob/main/IMG/%E8%AE%B0%E8%B4%A6%E6%88%AA%E5%9B%BE1.png)
