@@ -1,6 +1,6 @@
-# easyaccount
+# Easyaccount
 ### Introduction
-Welcome to our Expense Tracker application! This tool is designed to simplify your expense tracking process by allowing you to input a single sentence describing your expense, and automatically categorizing it by its amount and date.
+Welcome to my Expense Tracker application! This tool is designed to simplify your expense tracking process by allowing you to input a single sentence describing your expense, and automatically categorizing it by its amount and date.
 ### Features
 - **Single Sentence Input**: Describe your expense in a single sentence, and let our application handle the rest.
 - **Automatic Categorization**: The application automatically categorizes your expenses based on the provided description, amount, and date.
