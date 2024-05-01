@@ -1,0 +1,38 @@
+{
+  "name": "easyaccount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server",
+    "server": "nodemon backend/server",
+    "client": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/RaeyoungX/FoodOrdering.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chart.js": "^4.4.2",
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "jwt-decode": "^4.0.0",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0",
+    "openai": "^4.36.0",
+    "react-calendar": "^5.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-datepicker": "^6.9.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

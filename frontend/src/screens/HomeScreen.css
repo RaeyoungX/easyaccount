@@ -1,0 +1,6 @@
+.vertical-center {
+    height: 80vh; /* 视口高度 */
+  }
+  
+  /* 如果你的项目中还没有引入 Bootstrap，上面代码中的 btn 和 form-control 类将不会生效。确保你的项目已经引入了 Bootstrap 或相应的样式。*/
+  
